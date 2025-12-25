@@ -8,41 +8,30 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Database Manager & ERP Consultant</h2></summary>
+    <summary><h2 style="display: inline-block">An expirienced Database Manager & ERP Consultant 🚀</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <b>📱 Phone:</b> <a href="tel:+34674967884">+34 674 96 78 84</a> 📞 | 
-  <b>✉️ Email:</b> <a href="mailto:tu-email@ejemplo.com">tu-email@ejemplo.com</a>
+  <b>✉️ Email:</b> <a href="mailto:ivangutierrezmiranda@gmail.com">ivangutierrezmiranda@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ivangm123/ivangm123/raw/main/NOMBRE_DE_TU_ARCHIVO.pdf" target="_blank">
+  <a href="https://github.com/ivangm123/ivangm123/raw/main/Plantilla_cv_ghub.pdf" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD-RESUME_PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
 <br>
 
-- 🔭 **I’m currently working on:** ERP implementation (SAP, IFS, Dynamics) and database optimization.
-- 🌱 **I’m currently learning:** Advanced data analysis and cloud integration.
-- 💬 **Ask me about:** SQL, ERP systems, and business process automation.
+<div align="center">
+  <p>🔭 <b>I’m currently working on:</b> ERP implementation (SAP, IFS, Dynamics) and database optimization.</p>
+  <p>🌱 <b>I’m currently learning:</b> Advanced data analysis and cloud integration.</p>
+  <p>💬 <b>Ask me about:</b> SQL, ERP systems, and business process automation.</p>
+</div>
 
 <br>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivangm123&theme=dark&show_icons=true&count_private=true" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivangm123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
 
 <div id="user-content-toc">
   <ul align="center">
